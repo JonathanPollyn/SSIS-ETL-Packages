@@ -1,0 +1,291 @@
+BusinessEntityID,JobTitle,BirthDate,MaritalStatus,Gender,HireDate,VacationHours,BusinessEntityID (1),FirstName,LastName
+1,Chief Executive Officer,1969-01-29,S,M,2009-01-14,99,1,Ken,Sánchez
+2,Vice President of Engineering,1971-08-01,S,F,2008-01-31,1,2,Terri,Duffy
+3,Engineering Manager,1974-11-12,M,M,2007-11-11,2,3,Roberto,Tamburello
+4,Senior Tool Designer,1974-12-23,S,M,2007-12-05,48,4,Rob,Walters
+5,Design Engineer,1952-09-27,M,F,2008-01-06,5,5,Gail,Erickson
+6,Design Engineer,1959-03-11,M,M,2008-01-24,6,6,Jossef,Goldberg
+7,Research and Development Manager,1987-02-24,M,M,2009-02-08,61,7,Dylan,Miller
+8,Research and Development Engineer,1986-06-05,S,F,2008-12-29,62,8,Diane,Margheim
+9,Research and Development Engineer,1979-01-21,M,F,2009-01-16,63,9,Gigi,Matthew
+10,Research and Development Manager,1984-11-30,M,M,2009-05-03,16,10,Michael,Raheem
+11,Senior Tool Designer,1978-01-17,S,M,2010-12-05,7,11,Ovidiu,Cracium
+12,Tool Designer,1959-07-29,M,M,2007-12-11,9,12,Thierry,D'Hers
+13,Tool Designer,1989-05-28,M,F,2010-12-23,8,13,Janice,Galvin
+14,Senior Design Engineer,1979-06-16,S,M,2010-12-30,3,14,Michael,Sullivan
+15,Design Engineer,1961-05-02,M,F,2011-01-18,4,15,Sharon,Salavaria
+16,Marketing Manager,1975-03-19,S,M,2007-12-20,40,16,David,Bradley
+17,Marketing Assistant,1987-05-03,S,M,2007-01-26,42,17,Kevin,Brown
+18,Marketing Specialist,1978-03-06,S,M,2011-02-07,48,18,John,Wood
+19,Marketing Assistant,1978-01-29,S,F,2011-02-14,43,19,Mary,Dempsey
+20,Marketing Assistant,1975-03-17,M,F,2011-01-07,41,20,Wanida,Benshoof
+21,Marketing Specialist,1986-02-04,M,M,2009-03-02,44,21,Terry,Eminhizer
+22,Marketing Specialist,1987-05-21,S,M,2008-12-12,45,22,Sariya,Harnpadoungsataya
+23,Marketing Specialist,1962-09-13,M,F,2009-01-12,46,23,Mary,Gibson
+24,Marketing Specialist,1979-06-18,M,F,2009-01-18,47,24,Jill,Williams
+25,Vice President of Production,1983-01-07,S,M,2009-02-03,64,25,James,Hamilton
+26,Production Control Manager,1982-11-03,M,M,2008-12-01,43,26,Peter,Krebs
+27,Production Supervisor - WC60,1956-10-08,S,F,2008-02-27,80,27,Jo,Brown
+28,Production Technician - WC60,1988-03-13,M,M,2006-06-30,21,28,Guy,Gilbert
+29,Production Technician - WC60,1979-09-25,S,M,2009-01-23,19,29,Mark,McArthur
+30,Production Technician - WC60,1989-09-28,M,F,2009-01-29,14,30,Britta,Simon
+31,Production Technician - WC60,1986-05-20,M,F,2009-01-04,18,31,Margie,Shoop
+32,Production Technician - WC60,1977-07-10,M,F,2008-12-29,23,32,Rebecca,Laszlo
+33,Production Technician - WC60,1976-12-26,M,M,2008-12-17,17,33,Annik,Stahl
+34,Production Technician - WC60,1987-06-10,M,F,2009-02-16,15,34,Suchitra,Mohan
+35,Production Technician - WC60,1977-01-10,M,M,2009-02-08,22,35,Brandon,Heidepriem
+36,Production Technician - WC60,1984-07-31,M,M,2009-02-10,20,36,Jose,Lugo
+37,Production Technician - WC60,1986-08-07,S,M,2009-03-07,16,37,Chris,Okelberry
+38,Production Technician - WC60,1966-12-14,M,F,2010-01-16,24,38,Kim,Abercrombie
+39,Production Technician - WC60,1971-09-11,S,M,2010-02-05,25,39,Ed,Dudenhoefer
+40,Production Supervisor - WC60,1956-01-16,S,F,2007-12-26,82,40,JoLynn,Dobney
+41,Production Technician - WC60,1973-08-27,S,M,2009-01-21,35,41,Bryan,Baker
+42,Production Technician - WC60,1984-07-25,M,M,2008-12-27,39,42,James,Kramer
+43,Production Technician - WC60,1988-11-19,M,F,2009-01-02,34,43,Nancy,Anderson
+44,Production Technician - WC60,1990-05-17,S,M,2008-12-08,38,44,Simon,Rapier
+45,Production Technician - WC60,1986-01-10,M,M,2009-02-26,37,45,Thomas,Michaels
+46,Production Technician - WC60,1976-02-10,S,M,2009-02-08,36,46,Eugene,Kogan
+47,Production Supervisor - WC10,1988-09-06,S,M,2009-02-22,65,47,Andrew,Hill
+48,Production Technician - WC10,1956-06-04,M,F,2008-01-06,83,48,Ruth,Ellerbrock
+49,Production Technician - WC10,1956-03-26,S,M,2008-01-07,88,49,Barry,Johnson
+50,Production Technician - WC10,1956-08-30,M,M,2008-02-02,84,50,Sidney,Higa
+51,Production Technician - WC10,1956-07-11,S,M,2008-02-20,85,51,Jeffrey,Ford
+52,Production Technician - WC10,1956-04-04,M,F,2008-03-10,86,52,Doris,Hartwig
+53,Production Technician - WC10,1956-03-29,M,F,2008-03-28,87,53,Diane,Glimp
+54,Production Technician - WC10,1986-09-10,M,F,2010-01-01,89,54,Bonnie,Kearney
+55,Production Supervisor - WC50,1956-04-01,M,M,2008-02-08,79,55,Taylor,Maxwell
+56,Production Technician - WC50,1988-07-06,M,F,2009-02-05,9,56,Denise,Smith
+57,Production Technician - WC50,1971-07-24,S,M,2009-02-23,10,57,Frank,Miller
+58,Production Technician - WC50,1986-05-30,M,M,2008-12-05,11,58,Kendall,Keil
+59,Production Technician - WC50,1979-08-16,S,M,2008-12-24,12,59,Bob,Hohman
+60,Production Technician - WC50,1977-02-03,S,M,2009-01-11,13,60,Pete,Male
+61,Production Technician - WC50,1989-08-09,S,F,2009-01-18,8,61,Diane,Tibbott
+62,Production Supervisor - WC60,1956-08-07,M,M,2008-03-17,81,62,John,Campbell
+63,Production Technician - WC60,1955-01-30,S,M,2010-01-29,30,63,Maciej,Dusza
+64,Production Technician - WC60,1973-09-05,S,M,2010-02-23,26,64,Michael,Zwilling
+65,Production Technician - WC60,1970-04-28,M,M,2010-02-23,29,65,Randy,Reeves
+66,Production Technician - WC60,1970-03-07,S,M,2009-12-22,28,66,Karan,Khanna
+67,Production Technician - WC60,1976-02-11,S,M,2009-03-05,32,67,Jay,Adams
+68,Production Technician - WC60,1971-09-02,S,M,2009-12-03,27,68,Charles,Fitzgerald
+69,Production Technician - WC60,1991-04-06,S,M,2009-02-15,31,69,Steve,Masters
+70,Production Technician - WC60,1984-12-29,M,M,2008-12-15,33,70,David,Ortiz
+71,Production Supervisor - WC30,1989-01-29,S,M,2009-02-15,70,71,Michael,Ray
+72,Production Technician - WC30,1977-05-14,M,M,2008-12-01,41,72,Steven,Selikoff
+73,Production Technician - WC30,1983-10-19,M,F,2008-12-19,42,73,Carole,Poland
+74,Production Technician - WC30,1989-11-06,S,M,2009-01-07,43,74,Bjorn,Rettig
+75,Production Technician - WC30,1982-06-27,S,M,2009-01-26,44,75,Michiko,Osada
+76,Production Technician - WC30,1988-10-17,M,F,2009-02-12,45,76,Carol,Philips
+77,Production Technician - WC30,1983-05-13,M,F,2009-03-03,46,77,Merav,Netz
+78,Production Supervisor - WC40,1987-08-27,M,M,2008-12-15,72,78,Reuben,D'sa
+79,Production Technician - WC40,1966-12-08,M,M,2010-01-24,60,79,Eric,Brown
+80,Production Technician - WC40,1970-12-03,S,M,2010-01-17,65,80,Sandeep,Kaliyath
+81,Production Technician - WC40,1971-03-09,S,M,2009-12-29,64,81,Mihail,Frintu
+82,Production Technician - WC40,1973-08-29,S,M,2010-03-03,62,82,Jack,Creasey
+83,Production Technician - WC40,1973-12-23,M,M,2010-02-12,61,83,Patrick,Cook
+84,Production Technician - WC40,1952-03-02,M,M,2010-02-05,66,84,Frank,Martinez
+85,Production Technician - WC40,1970-12-23,S,M,2009-12-11,63,85,Brian,Goldstein
+86,Production Technician - WC40,1972-06-13,M,M,2009-01-05,59,86,Ryan,Cornelsen
+87,Production Supervisor - WC10,1984-04-11,M,M,2008-12-22,67,87,Cristian,Petculescu
+88,Production Technician - WC10,1966-12-17,S,F,2009-12-18,99,88,Betsy,Stadick
+89,Production Technician - WC10,1986-09-10,S,M,2010-02-01,96,89,Patrick,Wedge
+90,Production Technician - WC10,1986-09-07,S,F,2010-02-20,97,90,Danielle,Tiedt
+91,Production Technician - WC10,1986-09-13,S,F,2010-01-12,95,91,Kimberly,Zimmerman
+92,Production Technician - WC10,1986-10-01,M,M,2010-03-10,98,92,Tom,Vande Velde
+93,Production Supervisor - WC50,1980-04-28,S,M,2008-12-27,78,93,Kok-Ho,Loh
+94,Production Technician - WC50,1972-11-25,M,M,2008-12-12,6,94,Russell,Hunter
+95,Production Technician - WC50,1986-09-08,M,M,2008-12-19,1,95,Jim,Scardelis
+96,Production Technician - WC50,1990-01-25,M,F,2009-03-02,5,96,Elizabeth,Keyser
+97,Production Technician - WC50,1986-03-21,S,M,2009-02-10,0,97,Mandar,Samant
+98,Production Technician - WC50,1978-06-26,M,M,2009-02-11,4,98,Sameer,Tejani
+99,Production Technician - WC50,1979-03-29,S,M,2009-01-06,2,99,Nuan,Yu
+100,Production Technician - WC50,1973-01-24,M,M,2009-01-12,7,100,Lolan,Song
+101,Production Technician - WC50,1971-08-30,M,M,2009-01-25,3,101,Houman,Pournasseh
+102,Production Supervisor - WC10,1983-10-26,S,M,2008-12-03,66,102,Zheng,Mu
+103,Production Technician - WC10,1986-09-22,S,M,2009-12-06,93,103,Ebru,Ersan
+104,Production Technician - WC10,1986-09-19,M,F,2009-12-25,94,104,Mary,Baker
+105,Production Technician - WC10,1986-09-19,S,M,2009-12-25,90,105,Kevin,Homer
+106,Production Technician - WC10,1986-09-28,S,M,2010-02-27,92,106,John,Kane
+107,Production Technician - WC10,1986-10-01,M,M,2010-02-08,91,107,Christopher,Hill
+108,Production Supervisor - WC50,1989-02-05,S,M,2008-12-08,77,108,Jinghao,Liu
+109,Production Technician - WC50,1978-01-26,M,F,2008-12-07,95,109,Alice,Ciccu
+110,Production Technician - WC50,1979-07-06,S,M,2008-12-14,90,110,Jun,Cao
+111,Production Technician - WC50,1978-02-25,S,M,2008-12-17,93,111,Suroor,Fatima
+112,Production Technician - WC50,1978-05-31,S,M,2009-01-01,91,112,John,Evans
+113,Production Technician - WC50,1987-07-17,M,F,2008-12-25,96,113,Linda,Moschell
+114,Production Technician - WC50,1978-05-07,M,M,2009-01-13,97,114,Mindaugas,Krapauskas
+115,Production Technician - WC50,1991-05-31,S,F,2009-01-20,92,115,Angela,Barbariol
+116,Production Technician - WC50,1974-05-03,S,M,2009-01-31,98,116,Michael,Patten
+117,Production Technician - WC50,1990-08-04,M,M,2009-02-18,99,117,Chad,Niswonger
+118,Production Technician - WC50,1971-06-13,M,M,2009-02-13,88,118,Don,Hall
+119,Production Technician - WC50,1989-06-15,S,M,2009-02-25,94,119,Michael,Entin
+120,Production Technician - WC50,1987-06-06,S,F,2009-03-04,89,120,Kitti,Lertpiriyasuwat
+121,Shipping and Receiving Supervisor,1972-09-09,S,M,2009-01-02,93,121,Pilar,Ackerman
+122,Stocker,1978-02-17,S,F,2008-12-07,97,122,Susan,Eaton
+123,Shipping and Receiving Clerk,1977-03-18,M,M,2008-12-07,95,123,Vamsi,Kuppa
+124,Stocker,1984-04-30,S,F,2008-12-26,98,124,Kim,Ralls
+125,Shipping and Receiving Clerk,1973-11-11,M,M,2009-01-20,94,125,Matthias,Berndt
+126,Stocker,1985-05-04,M,M,2009-02-26,96,126,Jimmy,Bischoff
+127,Production Supervisor - WC40,1983-07-02,S,M,2009-01-03,73,127,David,Hamilton
+128,Production Technician - WC40,1980-11-13,S,M,2008-12-04,68,128,Paul,Komosinski
+129,Production Technician - WC40,1988-05-16,S,M,2008-12-22,69,129,Gary,Yukish
+130,Production Technician - WC40,1973-08-04,S,M,2009-02-13,71,130,Rob,Caron
+131,Production Technician - WC40,1990-10-07,S,M,2009-02-15,72,131,Baris,Cetinok
+132,Production Technician - WC40,1986-04-09,M,F,2009-02-22,67,132,Nicole,Holliday
+133,Production Technician - WC40,1991-01-04,S,M,2009-01-10,70,133,Michael,Rothkugel
+134,Production Supervisor - WC20,1985-01-19,M,M,2009-01-14,40,134,Eric,Gubbels
+135,Production Technician - WC20,1982-01-03,M,M,2008-12-04,9,135,Ivo,Salmre
+136,Production Technician - WC20,1970-11-12,M,M,2009-12-11,4,136,Sylvester,Valdez
+137,Production Technician - WC20,1974-09-05,S,F,2009-02-23,8,137,Anibal,Sousa
+138,Production Technician - WC20,1987-11-22,M,F,2009-02-04,7,138,Samantha,Smith
+139,Production Technician - WC20,1971-10-23,S,M,2010-01-06,0,139,Hung-Fu,Ting
+140,Production Technician - WC20,1953-04-30,M,M,2010-01-22,5,140,Prasanna,Samarawickrama
+141,Production Technician - WC20,1974-09-10,M,M,2010-01-24,1,141,Min,Su
+142,Production Technician - WC20,1970-04-04,S,F,2010-03-04,3,142,Olinda,Turner
+143,Production Technician - WC20,1971-09-05,S,M,2010-02-13,2,143,Krishna,Sunkammurali
+144,Production Technician - WC20,1990-11-04,M,M,2009-01-17,6,144,Paul,Singh
+145,Production Supervisor - WC30,1981-08-18,S,F,2009-01-27,69,145,Cynthia,Randall
+146,Production Technician - WC30,1989-06-25,S,M,2008-12-07,36,146,Jian Shuo,Wang
+147,Production Technician - WC30,1975-11-05,M,F,2008-12-26,37,147,Sandra,Reátegui Alayo
+148,Production Technician - WC30,1988-12-07,S,M,2009-01-14,38,148,Jason,Watters
+149,Production Technician - WC30,1983-10-20,M,M,2009-01-31,39,149,Andy,Ruth
+150,Production Technician - WC30,1982-09-18,M,M,2009-02-26,35,150,Michael,Vanderhyde
+151,Production Technician - WC30,1977-09-13,M,M,2009-02-19,40,151,Rostislav,Shabalin
+152,Production Supervisor - WC20,1977-04-06,M,M,2009-02-01,41,152,Yuhong,Li
+153,Production Technician - WC20,1974-10-16,S,M,2008-12-16,15,153,Hanying,Feng
+154,Production Technician - WC20,1967-03-02,M,M,2008-12-23,10,154,Raymond,Sam
+155,Production Technician - WC20,1989-02-15,S,M,2009-01-04,16,155,Fadi,Fakhouri
+156,Production Technician - WC20,1974-09-23,M,M,2009-01-11,11,156,Lane,Sacksteder
+157,Production Technician - WC20,1977-10-05,S,F,2009-02-03,12,157,Linda,Randall
+158,Production Technician - WC20,1986-12-08,S,F,2009-03-07,14,158,Shelley,Dyck
+159,Production Technician - WC20,1984-12-08,S,M,2009-02-16,13,159,Terrence,Earls
+160,Production Supervisor - WC45,1977-01-15,M,M,2009-01-21,74,160,Jeff,Hay
+161,Production Technician - WC45,1985-02-06,S,M,2008-12-15,74,161,Kirk,Koenigsbauer
+162,Production Technician - WC45,1980-12-25,S,F,2009-01-03,75,162,Laura,Steele
+163,Production Technician - WC45,1990-04-13,M,M,2009-02-08,77,163,Alex,Nayberg
+164,Production Technician - WC45,1988-09-24,S,M,2009-03-06,73,164,Andrew,Cencini
+165,Production Technician - WC45,1988-12-16,M,M,2009-01-22,76,165,Chris,Preston
+166,Production Supervisor - WC30,1983-06-22,S,M,2009-02-21,68,166,Jack,Richins
+167,Production Technician - WC30,1979-11-02,S,M,2008-12-02,25,167,David,Johnson
+168,Production Technician - WC30,1984-08-25,S,M,2008-12-07,34,168,Garrett,Young
+169,Production Technician - WC30,1983-04-02,S,F,2008-12-14,31,169,Susan,Metters
+170,Production Technician - WC30,1977-04-16,M,M,2008-12-21,26,170,George,Li
+171,Production Technician - WC30,1981-08-03,S,M,2009-01-02,32,171,David,Yalovsky
+172,Production Technician - WC30,1986-10-24,M,M,2009-01-16,22,172,Marc,Ingle
+173,Production Technician - WC30,1987-07-15,S,M,2009-01-21,33,173,Eugene,Zabokritski
+174,Production Technician - WC30,1986-01-05,S,M,2009-01-27,28,174,Benjamin,Martin
+175,Production Technician - WC30,1989-01-08,M,M,2009-02-02,23,175,Reed,Koch
+176,Production Technician - WC30,1985-09-23,M,M,2009-02-14,29,176,David,Lawrence
+177,Production Technician - WC30,1982-02-11,M,M,2009-02-21,24,177,Russell,King
+178,Production Technician - WC30,1982-03-24,S,M,2009-03-03,27,178,John,Frum
+179,Production Technician - WC30,1974-11-15,S,M,2009-03-05,30,179,Jan,Miksovsky
+180,Production Supervisor - WC20,1984-11-18,S,F,2009-02-20,42,180,Katie,McAskill-White
+181,Production Technician - WC20,1984-11-17,S,M,2008-12-09,20,181,Michael,Hines
+182,Production Technician - WC20,1986-12-01,S,M,2008-12-28,21,182,Nitin,Mirchandani
+183,Production Technician - WC20,1979-07-02,M,F,2009-01-22,17,183,Barbara,Decker
+184,Production Technician - WC20,1986-04-05,M,M,2009-02-09,18,184,John,Chen
+185,Production Technician - WC20,1975-12-21,S,M,2009-02-28,19,185,Stefen,Hesse
+186,Production Supervisor - WC45,1990-05-24,S,M,2009-02-08,75,186,Shane,Kim
+187,Production Technician - WC45,1989-04-15,M,F,2008-12-09,79,187,Yvonne,McKay
+188,Production Technician - WC45,1985-11-24,M,M,2008-12-27,80,188,Douglas,Hite
+189,Production Technician - WC45,1972-07-24,S,F,2009-01-15,81,189,Janeth,Esteves
+190,Production Technician - WC45,1985-02-28,S,M,2009-02-02,82,190,Robert,Rounthwaite
+191,Production Technician - WC45,1988-03-14,S,M,2009-02-26,78,191,Lionel,Penuchot
+192,Production Supervisor - WC40,1983-02-28,M,F,2009-03-05,71,192,Brenda,Diaz
+193,Production Technician - WC40,1988-12-05,S,M,2008-12-06,52,193,Alejandro,McGuel
+194,Production Technician - WC40,1989-06-25,S,M,2008-12-12,47,194,Fred,Northup
+195,Production Technician - WC40,1985-12-25,S,M,2008-12-17,58,195,Kevin,Liu
+196,Production Technician - WC40,1980-10-04,M,M,2008-12-24,53,196,Shammi,Mohamed
+197,Production Technician - WC40,1977-10-04,M,M,2008-12-31,48,197,Rajesh,Patel
+198,Production Technician - WC40,1988-11-26,M,F,2009-01-04,49,198,Lorraine,Nay
+199,Production Technician - WC40,1987-02-10,M,F,2009-01-12,54,199,Paula,Nartker
+200,Production Technician - WC40,1987-09-06,M,M,2009-01-17,56,200,Frank,Lee
+201,Production Technician - WC40,1977-02-10,S,M,2009-01-29,55,201,Brian,Lloyd
+202,Production Technician - WC40,1989-11-10,S,M,2009-02-05,50,202,Tawana,Nusbaum
+203,Production Technician - WC40,1981-05-28,M,M,2009-02-24,51,203,Ken,Myer
+204,Production Technician - WC40,1988-05-10,M,M,2009-03-08,57,204,Gabe,Mares
+205,Production Supervisor - WC45,1980-07-18,S,F,2009-02-26,76,205,Lori,Kane
+206,Production Technician - WC45,1962-09-13,S,M,2008-12-02,84,206,Stuart,Munson
+207,Production Technician - WC45,1970-10-18,S,M,2008-12-02,85,207,Greg,Alderson
+208,Production Technician - WC45,1987-02-10,M,M,2009-01-08,86,208,Scott,Gode
+209,Production Technician - WC45,1990-11-01,M,F,2009-01-27,87,209,Kathie,Flood
+210,Production Technician - WC45,1969-09-17,S,F,2009-02-20,83,210,Belinda,Newman
+211,Quality Assurance Manager,1977-10-26,S,M,2009-02-28,80,211,Hazem,Abolrous
+212,Quality Assurance Supervisor,1976-03-18,M,M,2008-12-09,81,212,Peng,Wu
+213,Quality Assurance Technician,1966-12-05,M,M,2010-02-23,85,213,Sootha,Charncherngkha
+214,Quality Assurance Technician,1989-03-28,M,M,2009-02-02,84,214,Andreas,Berglund
+215,Quality Assurance Technician,1986-04-30,S,M,2009-01-15,83,215,Mark,Harrington
+216,Quality Assurance Technician,1976-03-06,S,M,2008-12-28,82,216,Sean,Alexander
+217,Document Control Manager,1976-01-30,M,M,2009-01-04,77,217,Zainal,Arifin
+218,Control Specialist,1990-04-28,S,M,2008-12-16,76,218,Tengiz,Kharatishvili
+219,Document Control Assistant,1987-03-12,S,M,2009-01-22,78,219,Sean,Chai
+220,Document Control Assistant,1975-12-25,M,F,2009-02-09,79,220,Karen,Berge
+221,Control Specialist,1987-05-26,M,M,2009-03-06,75,221,Chris,Norred
+222,Master Scheduler,1968-09-17,S,M,2008-12-12,44,222,A. Scott,Wright
+223,Scheduling Assistant,1987-12-22,M,M,2009-01-26,46,223,Sairaj,Uddin
+224,Scheduling Assistant,1981-11-06,M,M,2009-01-07,45,224,William,Vong
+225,Scheduling Assistant,1984-03-29,M,M,2009-02-13,47,225,Alan,Brewer
+226,Scheduling Assistant,1984-08-11,M,M,2009-03-03,48,226,Brian,LaMee
+227,Facilities Manager,1971-02-18,M,M,2009-12-02,86,227,Gary,Altman
+228,Maintenance Supervisor,1976-01-18,M,M,2008-12-14,92,228,Christian,Kleinerman
+229,Janitor,1970-07-31,M,F,2010-02-16,90,229,Lori,Penor
+230,Janitor,1971-12-17,M,M,2010-03-05,88,230,Stuart,Macrae
+231,Janitor,1954-04-24,M,F,2010-03-07,91,231,Jo,Berry
+232,Janitor,1970-12-03,S,M,2010-01-27,89,232,Pat,Coleman
+233,Facilities Administrative Assistant,1971-08-27,M,M,2009-12-21,87,233,Magnus,Hedlund
+234,Chief Financial Officer,1976-01-06,M,F,2009-01-31,0,234,Laura,Norman
+235,Human Resources Manager,1976-02-11,M,F,2008-12-06,54,235,Paula,Barreto de Mattos
+236,Human Resources Administrative Assistant,1976-04-16,S,M,2009-02-25,53,236,Grant,Culbertson
+237,Human Resources Administrative Assistant,1977-04-17,S,M,2009-02-06,52,237,Hao,Chen
+238,Recruiter,1984-08-01,S,M,2009-01-01,50,238,Vidur,Luthra
+239,Benefits Specialist,1984-11-20,M,F,2008-12-25,51,239,Mindy,Martin
+240,Recruiter,1978-07-18,S,M,2008-12-13,49,240,Willis,Johnson
+241,Accounts Manager,1983-07-08,M,M,2009-01-30,57,241,David,Liu
+242,Accounts Receivable Specialist,1976-03-06,M,F,2008-12-18,60,242,Deborah,Poe
+243,Accounts Receivable Specialist,1976-02-23,S,F,2009-01-06,61,243,Candy,Spoon
+244,Accounts Receivable Specialist,1984-09-20,S,M,2009-01-24,62,244,Bryan,Walton
+245,Accountant,1976-01-04,M,F,2009-02-18,58,245,Barbara,Moreland
+246,Accounts Payable Specialist,1977-02-14,M,M,2009-02-11,63,246,Dragan,Tomic
+247,Accounts Payable Specialist,1979-03-09,M,F,2009-03-01,64,247,Janet,Sheperdigian
+248,Accountant,1979-07-01,S,M,2009-03-08,59,248,Mike,Seamans
+249,Finance Manager,1984-10-11,S,F,2008-12-25,55,249,Wendy,Kahn
+250,Purchasing Manager,1978-02-10,S,F,2011-02-25,49,250,Sheela,Word
+251,Buyer,1984-08-17,S,M,2009-02-10,59,251,Mikael,Sandberg
+252,Buyer,1974-08-21,M,M,2009-02-28,60,252,Arvind,Rao
+253,Buyer,1970-11-30,M,F,2009-12-17,56,253,Linda,Meisner
+254,Buyer,1970-11-24,M,M,2010-01-04,57,254,Fukiko,Ogisu
+255,Buyer,1966-11-29,M,M,2010-01-11,52,255,Gordon,Hee
+256,Buyer,1952-05-12,M,M,2010-01-23,58,256,Frank,Pellow
+257,Buyer,1972-09-17,S,M,2010-01-27,54,257,Eric,Kurjan
+258,Buyer,1971-01-04,S,F,2010-01-31,53,258,Erin,Hagens
+259,Buyer,1973-06-03,M,M,2010-03-09,55,259,Ben,Miller
+260,Purchasing Assistant,1978-01-29,M,F,2010-12-06,50,260,Annette,Hill
+261,Purchasing Assistant,1978-01-17,M,M,2010-12-25,51,261,Reinout,Hillmann
+262,Assistant to the Chief Financial Officer,1964-06-21,S,M,2009-01-12,56,262,David,Barber
+263,Information Services Manager,1975-12-13,S,F,2008-12-11,65,263,Jean,Trenary
+264,Network Manager,1984-03-25,S,F,2009-02-04,68,264,Stephanie,Conroy
+265,Network Administrator,1977-03-27,S,M,2008-12-04,70,265,Ashvini,Sharma
+266,Network Administrator,1980-05-28,S,M,2009-02-23,69,266,Peter,Connelly
+267,Application Specialist,1978-05-19,S,F,2009-02-16,74,267,Karen,Berg
+268,Application Specialist,1988-03-13,S,M,2009-02-03,73,268,Ramesh,Meyyappan
+269,Application Specialist,1987-05-26,M,M,2009-01-11,72,269,Dan,Bacon
+270,Database Administrator,1975-05-17,S,M,2009-01-17,67,270,François,Ajenstat
+271,Database Administrator,1976-01-06,M,M,2009-01-22,66,271,Dan,Wilson
+272,Application Specialist,1985-01-30,M,F,2008-12-23,71,272,Janaina,Bueno
+273,Vice President of Sales,1977-06-06,S,M,2011-02-15,10,273,Brian,Welcker
+274,North American Sales Manager,1951-10-17,M,M,2011-01-04,14,274,Stephen,Jiang
+275,Sales Representative,1968-12-25,S,M,2011-05-31,38,275,Michael,Blythe
+276,Sales Representative,1980-02-27,M,F,2011-05-31,27,276,Linda,Mitchell
+277,Sales Representative,1962-08-29,S,F,2011-05-31,24,277,Jillian,Carson
+278,Sales Representative,1975-02-04,M,M,2011-05-31,33,278,Garrett,Vargas
+279,Sales Representative,1974-01-18,M,M,2011-05-31,29,279,Tsvi,Reiter
+280,Sales Representative,1974-12-06,S,F,2011-05-31,22,280,Pamela,Ansman-Wolfe
+281,Sales Representative,1968-03-09,M,M,2011-05-31,26,281,Shu,Ito
+282,Sales Representative,1963-12-11,M,M,2011-05-31,31,282,José,Saraiva
+283,Sales Representative,1974-02-11,S,M,2011-05-31,23,283,David,Campbell
+284,Sales Representative,1978-01-05,M,M,2012-09-30,39,284,Tete,Mensa-Annan
+285,Pacific Sales Manager,1975-01-11,M,M,2013-03-14,20,285,Syed,Abbas
+286,Sales Representative,1977-02-14,S,F,2013-05-30,36,286,Lynn,Tsoflias
+287,European Sales Manager,1957-09-20,M,F,2012-04-16,21,287,Amy,Alberts
+288,Sales Representative,1975-07-09,S,F,2013-05-30,35,288,Rachel,Valdez
+289,Sales Representative,1968-03-17,M,F,2012-05-30,37,289,Jae,Pak
+290,Sales Representative,1975-09-30,S,M,2012-05-30,34,290,Ranjit,Varkey Chudukatil
