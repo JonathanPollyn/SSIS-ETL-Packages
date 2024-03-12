@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Introduction to SSIS", "Introduction to SSIS\Introduction to SSIS.dtproj", "{2F7EAF0C-9BB2-4DC3-AFF8-B3D0C4AC3DC8}"
+EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "ETL Pipeline", "ETL Pipeline\ETL Pipeline.dtproj", "{E7300513-4E6F-4704-9AF7-0A6BA6A09F72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F7EAF0C-9BB2-4DC3-AFF8-B3D0C4AC3DC8}.Development|Default.ActiveCfg = Development
+		{2F7EAF0C-9BB2-4DC3-AFF8-B3D0C4AC3DC8}.Development|Default.Build.0 = Development
+		{E7300513-4E6F-4704-9AF7-0A6BA6A09F72}.Development|Default.ActiveCfg = Development
+		{E7300513-4E6F-4704-9AF7-0A6BA6A09F72}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED786456-2854-4DD5-857E-8545ED082505}
+	EndGlobalSection
+EndGlobal
